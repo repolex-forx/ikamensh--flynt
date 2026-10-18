@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ikamensh/flynt/commit/34ec5eb2d0a5d392c2eed4d81f716c5a3c5e3ac1",
       "git:hexsha": "34ec5eb2d0a5d392c2eed4d81f716c5a3c5e3ac1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ikamensh/flynt/commit/3358ddf5ee5242a17210da64691d9b5a1d261091",
